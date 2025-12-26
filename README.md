@@ -99,6 +99,4 @@ Keshav Memorial College of Engineering
 
 ---
 
-## 🙏 Acknowledgement
-This project is carried out under the guidance of **Prof. [Mentor Name]**,  
-Indian Institute of Technology (IIT) Tirupati.
+
